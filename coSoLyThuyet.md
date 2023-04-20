@@ -7,7 +7,7 @@
 - SNMP Manager: Là phần mềm quản lý mạng được sử dụng để giám sát và điều khiển các thiết bị mạng.
 - SNMP Application: Là giao diện tương tác giữa người quản trị và SNMP Manager.
   
-![Các thành phần của SNMP](https://drive.google.com/file/d/1tULDZ7qBqyKZ9sTDCCr0-l-D_QopjHGO/view?usp=share_link)
+![Các thành phần của SNMP](1.png)
 
 ## 1.2. Các phiên bản của SNMP
 > SNMP có ba phiên bản hiện được sử dụng rộng rãi là SNMPv1, SNMPv2c và SNMPv3. Dưới đây là một số đặc điểm của từng phiên bản:
@@ -29,7 +29,7 @@
   * NMS có thể hỏi các thiết bị đang được quản lý về thông tin trạng thái cấu hình của chúng.
   * NMS có thể yêu cầu các thiết bị đang được quản lý thay đổi trạng thái cấu hình của chúng.
 > Các thông tin được lưu trong MIB dưới dạng biến có tên là OID (Object Identifyer) có cấu trúc khá phức tạp và được dùng để định danh các thông tin như sysname, interface, …
-![Ví dụ về OID liên quan đến tên của thiết bị](https://drive.google.com/file/d/1qJfDOgn8oFz11gwW-YeFJgS81XPK3YuL/view?usp=share_link)
+![Ví dụ về OID liên quan đến tên của thiết bị](2.png)
 
 > Các loại bản tin của SNMP bao gồm:
  - GET-Request: Được tạo bởi trình quản lý SNMP và được gửi đến một agent để lấy giá trị của một biến số nào đó, được xác định bởi OID của nó, trong một MIB.

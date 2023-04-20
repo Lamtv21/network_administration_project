@@ -11,10 +11,10 @@
 *	Kiểm tra tính năng thông báo traps từ router về máy tính.
 *	Cài đặt và xem lưu lượng mạng trên PRTG.
 ## 3.3.	Mô hình mạng
-![Mô hình mạng](https://drive.google.com/file/d/1DVeIPOyWxDMS1jdmfCrFoRSr0lQsMPA_/view?usp=share_link)
+![Mô hình mạng](3.png)
 ## 3.4. Các bước thực hiện
 ### 3.4.1.	Xây dựng mô hình mạng trên GNS3
-![Mô hình mạng](https://drive.google.com/file/d/1SO7catMrwTvf9IMoCKGMCV0JGgdq96AP/view?usp=share_link)
+![Mô hình mạng](4.png)
 ### 3.4.2. Cấu hình cơ bản router
 ### 3.4.3. Cấu hình địa chỉ IP trên máy tính
 ### 3.4.4. Kiểm tra kết nối
